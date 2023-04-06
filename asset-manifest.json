@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kpeazzoni/karenpeazzoni-portfolio/static/css/main.7b0b83db.css",
+    "main.js": "/kpeazzoni/karenpeazzoni-portfolio/static/js/main.a639b2ef.js",
+    "static/media/pintPlanner.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/pintPlanner.d1ee70cb983151f1d716.jpeg",
+    "static/media/findMyRide.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/findMyRide.039f82d89a4c5fca06f4.jpeg",
+    "static/media/timedQuiz.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/timedQuiz.a1f98ad179a016860944.jpeg",
+    "static/media/workdayScheduler.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/workdayScheduler.40f78410840f4faa158e.jpeg",
+    "static/media/planTracker.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/planTracker.99af01208c165d7d4408.jpeg",
+    "static/media/noteTaker.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/noteTaker.488a3d25aa6d472e16ff.jpeg",
+    "static/media/workImg.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/kp logo gray.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/kp logo gray.d3f53a6f86045592a0e7.png",
+    "static/media/javascript.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/kpeazzoni/karenpeazzoni-portfolio/index.html",
+    "main.7b0b83db.css.map": "/kpeazzoni/karenpeazzoni-portfolio/static/css/main.7b0b83db.css.map",
+    "main.a639b2ef.js.map": "/kpeazzoni/karenpeazzoni-portfolio/static/js/main.a639b2ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0b83db.css",
+    "static/js/main.a639b2ef.js"
+  ]
+}
