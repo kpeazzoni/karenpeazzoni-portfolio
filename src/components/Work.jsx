@@ -5,7 +5,6 @@ import PintPlanner from '../assets/pintPlanner.jpeg';
 import TimedQuiz from '../assets/timedQuiz.jpeg';
 import WorkdaySchedule from '../assets/workdayScheduler.jpeg';
 import PlanTracker from '../assets/planTracker.jpeg';
-import workImg from '../assets/workImg.jpeg';
 
 const Work = () => {
   return (
