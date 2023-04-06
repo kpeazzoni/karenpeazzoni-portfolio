@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/kpeazzoni/karenpeazzoni-portfolio/static/css/main.7b0b83db.css",
-    "main.js": "/kpeazzoni/karenpeazzoni-portfolio/static/js/main.a639b2ef.js",
+    "main.js": "/kpeazzoni/karenpeazzoni-portfolio/static/js/main.b6b11d6d.js",
     "static/media/pintPlanner.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/pintPlanner.d1ee70cb983151f1d716.jpeg",
     "static/media/findMyRide.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/findMyRide.039f82d89a4c5fca06f4.jpeg",
     "static/media/timedQuiz.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/timedQuiz.a1f98ad179a016860944.jpeg",
     "static/media/workdayScheduler.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/workdayScheduler.40f78410840f4faa158e.jpeg",
     "static/media/planTracker.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/planTracker.99af01208c165d7d4408.jpeg",
     "static/media/noteTaker.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/noteTaker.488a3d25aa6d472e16ff.jpeg",
-    "static/media/workImg.jpeg": "/kpeazzoni/karenpeazzoni-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/react.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -20,10 +19,10 @@
     "static/media/javascript.png": "/kpeazzoni/karenpeazzoni-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/kpeazzoni/karenpeazzoni-portfolio/index.html",
     "main.7b0b83db.css.map": "/kpeazzoni/karenpeazzoni-portfolio/static/css/main.7b0b83db.css.map",
-    "main.a639b2ef.js.map": "/kpeazzoni/karenpeazzoni-portfolio/static/js/main.a639b2ef.js.map"
+    "main.b6b11d6d.js.map": "/kpeazzoni/karenpeazzoni-portfolio/static/js/main.b6b11d6d.js.map"
   },
   "entrypoints": [
     "static/css/main.7b0b83db.css",
-    "static/js/main.a639b2ef.js"
+    "static/js/main.b6b11d6d.js"
   ]
 }
