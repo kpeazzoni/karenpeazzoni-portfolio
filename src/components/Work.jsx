@@ -41,8 +41,8 @@ const Work = () => {
             
             {/* hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+              <span className="text-1xl font-bold text-white flex text-center tracking-wider px-6 mx-3 justify-center items-center">
+                MySQL Handlebars Node.js Application
               </span>
               <div className="pt-8 text-center">
                 <a target= "_blank" href='https://find-my-ride.herokuapp.com/'>
@@ -58,8 +58,8 @@ const Work = () => {
             
             {/* hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+              <span className="text-2xl font-bold text-white tracking-wider ">
+                REST API Application
               </span>
               <div className="pt-8 text-center">
                 <a target= "_blank" href='https://cameliabenavides10.github.io/pintplanner/'>
@@ -75,8 +75,8 @@ const Work = () => {
             
             {/* hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+              <span className="text-1xl font-bold text-white tracking-wider">
+                JavaScript CSS HTML Application
               </span>
               <div className="pt-8 text-center">
                 <a target= "_blank" href='https://kpeazzoni.github.io/The-Office-timed-quiz/'>
@@ -92,8 +92,8 @@ const Work = () => {
             
             {/* hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+              <span className="text-1xl font-bold text-white flex text-center tracking-wider">
+              HTML and CSS powered by jQuery JavaScript Application
               </span>
               <div className="pt-8 text-center">
                 <a target= "_blank" href='https://kpeazzoni.github.io/Work-Day-Scheduler/'>
@@ -109,8 +109,8 @@ const Work = () => {
             
             {/* hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+              <span className="text-1xl font-bold text-white flex text-center tracking-wider">
+                Node.js Epress.js and JSON Data File Application
               </span>
               <div className="pt-8 text-center">
                 <a target= "_blank" href='https://karens-note-taker.herokuapp.com/'>
