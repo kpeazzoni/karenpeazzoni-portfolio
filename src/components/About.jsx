@@ -14,7 +14,7 @@ const About = () => {
             </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
-                <p>Hi. I'm Karen, nice to meet you. Please take a look around.</p>
+                <p>Hi. I'm Karen (one of the good ones 😃), nice to meet you. Please take a look around.</p>
             </div>
             <div>
                 <p>I have just completed an intensive software development boot camp from The University of Texas, Austin mid-March. I learned how to develop real-world full-stack applications. Through this experience, I have discovered that I like seeing the big picture come to completion from front-end to back-end. I love working with others to troubleshoot code and help solve problems. </p>
