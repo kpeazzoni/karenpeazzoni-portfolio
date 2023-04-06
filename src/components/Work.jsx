@@ -28,10 +28,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href='https://plan-tracker-app.herokuapp.com/'>
+                <a target= "_blank" href='https://plan-tracker-app.herokuapp.com/'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href='https://github.com/kpeazzoni/plan-tracker-app'>
+                <a target= "_blank" href='https://github.com/kpeazzoni/plan-tracker-app'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
@@ -45,10 +45,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href='https://find-my-ride.herokuapp.com/'>
+                <a target= "_blank" href='https://find-my-ride.herokuapp.com/'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href='https://github.com/kpeazzoni/find-my-ride'>
+                <a target= "_blank" href='https://github.com/kpeazzoni/find-my-ride'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
@@ -62,10 +62,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href='https://cameliabenavides10.github.io/pintplanner/'>
+                <a target= "_blank" href='https://cameliabenavides10.github.io/pintplanner/'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href='https://github.com/kpeazzoni/pintplanner'>
+                <a target= "_blank" href='https://github.com/kpeazzoni/pintplanner'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
@@ -79,10 +79,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href='https://kpeazzoni.github.io/The-Office-timed-quiz/'>
+                <a target= "_blank" href='https://kpeazzoni.github.io/The-Office-timed-quiz/'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href='https://github.com/kpeazzoni/The-Office-timed-quiz'>
+                <a target= "_blank" href='https://github.com/kpeazzoni/The-Office-timed-quiz'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
@@ -96,10 +96,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href='https://kpeazzoni.github.io/Work-Day-Scheduler/'>
+                <a target= "_blank" href='https://kpeazzoni.github.io/Work-Day-Scheduler/'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href='https://github.com/kpeazzoni/Work-Day-Scheduler'>
+                <a target= "_blank" href='https://github.com/kpeazzoni/Work-Day-Scheduler'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
@@ -113,10 +113,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href='https://karens-note-taker.herokuapp.com/'>
+                <a target= "_blank" href='https://karens-note-taker.herokuapp.com/'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href='https://github.com/kpeazzoni/Note-taker-express.js'>
+                <a target= "_blank" href='https://github.com/kpeazzoni/Note-taker-express.js'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
